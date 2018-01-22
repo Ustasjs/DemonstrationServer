@@ -1,0 +1,24 @@
+{
+  "session": {
+    "secret": "demonstrationSecretWord12345"
+  },
+  "db": {
+    "host": "ds111078.mlab.com",
+    "port": "11078",
+    "name": "demonstration_portfolio",
+    "user": "demonstrationDbUser",
+    "password": "demonstrationMongoPass12345"
+  },
+  "mail": {
+    "subject": "Сообщение с сайта портфолио",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "",
+        "pass": ""
+      }
+    }
+  }
+}
