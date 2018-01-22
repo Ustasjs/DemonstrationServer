@@ -18,7 +18,7 @@
 ##### Склонируйте репозиторий и перейдите в папку проекта
 
 ```
-git clone https://github.com/Ustasjs/serverForPortfolio
+git clone https://github.com/Ustasjs/DemonstrationServer
 ```
 
 ##### Установите модули локально
