@@ -6,12 +6,9 @@
 
 Ссылки:
 
-```
-портфолио [a link](https://github.com/Ustasjs/Portfolio)
-```
-```
-админка [a link](https://github.com/Ustasjs/adminPanel)
-```
+[портфолио](https://github.com/Ustasjs/Portfolio)
+[админка](https://github.com/Ustasjs/adminPanel)
+
 Сервер не требует локальной установки MongoDB. База данных размещена в облачном хранилище.
 
 > Сборка проекта с помощью Webpack версии 3.0.0^.
