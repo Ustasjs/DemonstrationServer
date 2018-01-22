@@ -27,7 +27,7 @@ mongoose
 rl.question('Логин: ', answer => {
   login = answer;
 
-  rl.question('Пароль: ', amswer => {
+  rl.question('Пароль: ', answer => {
     password = answer;
 
     rl.close();
